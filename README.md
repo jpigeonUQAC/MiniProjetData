@@ -10,7 +10,8 @@ Ce logiciel a été codé sous Python.<br>
 Voici le lien pour télécharger la version de Python : <br>https://www.python.org/downloads/<br>
 Les librairies nécessaires sont Pandas, Numpy, Plotly.express, Seaborn et Matplotlib. Si vous utiliser Jupyter Notebook, les commandes pour installées ces dépendances sont déjà incluses et vous n'avez qu'à exécuter la première cellule. Sinon vous pouvez ignorer la première cellule Jupyter.<br>
 Si vous désirez utiliser le fichier Python Streamlit, vous devrez vous assurer d'avoir la librairie Streamlit d'installée avec le terminal Windows.<br>
-Ce programme a été testé sur Windows 10 sous le logiciel Anaconda Jupyter pour le fichier Notebook.
+Ce programme a été testé sur Windows 10 sous le logiciel Anaconda Jupyter pour le fichier Notebook.<br>
+Lien Streamlit pour éviter d'héberger le code soi-meme : https://miniprojetdata-8gghdulowcjbhvdteugpdu.streamlit.app
 -----------
 Instructions Générales : Je vous recomnmende de télécharger l'ensemble du projet en format zip (main) et d'extraire le contenu et de consulter les données sur votre ordinateur directement pour éviter des erreurs de liaison entre le code et le csv.
 <br><br>
