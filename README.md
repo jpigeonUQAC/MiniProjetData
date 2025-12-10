@@ -20,7 +20,7 @@ Par la suite, le programme commence par faire une analyse des patients : age, ge
 Une fois cette analyse faite, une analyse des données hospitalière est fait par le meme processus.<br>
 Ensuite, une analyse financière selon les cout des patients est effectuée.<br>
 Enfin, nous terminons avec quelques données statistiques générales résumant certains points vus précédemment et nous terminons, enfin, sur une analyse rapide des cas abnormaux.
-<br>
+  <br>
 Instruction Streamlit : Pour ouvrir le fichier Python Streamlit, ouvrez le terminal et inscrivez "Streamlit run Streamlit.py". Ceci vous ouvrira une page sur votre navigateur web.<br>
 Le fichier Streamlit ouvrira, comme mentionné plus tot, une page sur votre navigateur web. Cette page sera composée d'une section à gauche permettant de sélectionner une donnée à visualisé en forme graphique. Ces données sont directement tirées du fichier notebook. Une fois le bouton appuyé, les données appaitrons sur l'écran principale au centre.<br>
 Le dernier bouton permet de visualiser certaines statistiques générales sur l'ensemble des données.<br>
