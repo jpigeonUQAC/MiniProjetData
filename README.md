@@ -13,6 +13,7 @@ Si vous désirez utiliser le fichier Python Streamlit, vous devrez vous assurer 
 Ce programme a été testé sur Windows 10 sous le logiciel Anaconda Jupyter pour le fichier Notebook.
 -----------
 Instruction Générales : Je vous recomnmende de télécharger l'ensemble du projet en format zip (main) et d'extraire le contenu et de consulter les données sur votre ordinateur directement pour éviter des erreurs de liaison entre le code et le csv.
+<br><br>
 Instruction Notebook : Pour ouvrir le fichier notebook, ouvrez d'abord l'application Anaconda, puis Jupyter Notebook. Puis sélectionnez le Notebook.ipynb dans le dossier présent.<br>
 Pour exécuter le code, il vous suffit d'appuyer sur "Run cells" avec le bouton Play. Cette commande exécutera toutes les cellules de code un par un et vous affichera le résultat du code de la cellule.<br>
 Le code est programmé de cette manière : Installation des dépendances, chargement du fichier csv, nettoyage des données (mettre les noms uniforms es première lettre majuscule, retirer les doubles, mettre les montants négatifs en positif, retirer les noms d'hopitaux en double et affecter les dates comme valeur en format date).<br>
@@ -20,7 +21,7 @@ Par la suite, le programme commence par faire une analyse des patients : age, ge
 Une fois cette analyse faite, une analyse des données hospitalière est fait par le meme processus.<br>
 Ensuite, une analyse financière selon les cout des patients est effectuée.<br>
 Enfin, nous terminons avec quelques données statistiques générales résumant certains points vus précédemment et nous terminons, enfin, sur une analyse rapide des cas abnormaux.
-<br><br><br><br>
+<br><br>
 Instruction Streamlit : Pour ouvrir le fichier Python Streamlit, ouvrez le terminal et inscrivez "Streamlit run Streamlit.py". Ceci vous ouvrira une page sur votre navigateur web.<br>
 Le fichier Streamlit ouvrira, comme mentionné plus tot, une page sur votre navigateur web. Cette page sera composée d'une section à gauche permettant de sélectionner une donnée à visualisé en forme graphique. Ces données sont directement tirées du fichier notebook. Une fois le bouton appuyé, les données appaitrons sur l'écran principale au centre.<br>
 Le dernier bouton permet de visualiser certaines statistiques générales sur l'ensemble des données.<br>
